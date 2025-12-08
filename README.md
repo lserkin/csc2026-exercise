@@ -17,7 +17,6 @@ and click **“Download”** once.
 
 Please wait for the download to complete — this may take a couple of minutes.
 
----
 
 ## Running the notebooks for each exercise
 
@@ -27,7 +26,5 @@ I have created a draft notebook (.ipynb file) for each exercise, launch it (clic
 
 These notebooks use new data files that you can browse by opening them in SWAN. 
 
----
----
 
 
