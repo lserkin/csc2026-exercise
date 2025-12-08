@@ -8,11 +8,7 @@ Follow the points 1) and 2) as indicated in
 https://github.com/lserkin/csc2026-lecture/blob/main/README.md
 ```
 
-and when you click **“Download project from git”**
-   (the small cloud-and-arrow icon in the upper-right corner)  
-   <img src="icon.png" width="40" style="vertical-align:middle;" />
-
-now entre this repository URL:
+and when you click **“Download project from git”** now entre this repository URL:
 ```
 https://github.com/lserkin/csc2026-exercise.git  
 ```
