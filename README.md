@@ -19,7 +19,7 @@ Please wait for the download to complete — this may take a couple of minutes.
 
 ---
 
-### 4. Running the notebooks for each exercise
+## Running the notebooks for each exercise
 
 Once the download is complete, you will see yourself within a directory named **`csc2026-exerise`**.  
 
