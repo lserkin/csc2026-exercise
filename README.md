@@ -10,7 +10,7 @@ https://github.com/lserkin/csc2026-lecture/blob/main/README.md
 
 and when you click **“Download project from git”** now enter this new repository URL:
 ```
-https://github.com/lserkin/csc2026-exercise.git  
+https://github.com/lserkin/csc2026-exercise.git
 ```
 
 and click **“Download”** once.
